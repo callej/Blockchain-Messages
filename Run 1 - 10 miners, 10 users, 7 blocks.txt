@@ -1,0 +1,138 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\idea_rt.jar=61060:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "E:\OneDrive\Projects\Programming\Kotlin\Blockchain (Kotlin)\Blockchain (Kotlin)\task\out\production\classes;C:\Users\calle\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk8\1.6.10\e80fe6ac3c3573a80305f5ec43f86b829e8ab53d\kotlin-stdlib-jdk8-1.6.10.jar;C:\Users\calle\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.6.10\e1c380673654a089c4f0c9f83d0ddfdc1efdb498\kotlin-stdlib-jdk7-1.6.10.jar;C:\Users\calle\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.6.10\b8af3fe6f1ca88526914929add63cf5e7c5049af\kotlin-stdlib-1.6.10.jar;C:\Users\calle\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar;C:\Users\calle\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.6.10\c118700e3a33c8a0d9adc920e9dec0831171925\kotlin-stdlib-common-1.6.10.jar" blockchain.MainKt
+
+
+Block:
+Created by miner # 7
+Id: 1
+Timestamp: 1688686435485
+Magic number: 367778829195019079
+Hash of the previous block:
+0
+Hash of the block:
+30b0769df649c40d2d14631f3a4088ca980ef5f83105e8e6017b999f49460aad
+Block data: no messages
+Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by miner # 1
+Id: 2
+Timestamp: 1688686437852
+Magic number: -7317430054311778292
+Hash of the previous block:
+30b0769df649c40d2d14631f3a4088ca980ef5f83105e8e6017b999f49460aad
+Hash of the block:
+05a2ce61900d39299d758959bffb18a295bae6913a6056209dcdcf41d0ca1bdb
+Block data:
+Betty: There is much pleasure to be gained from useless knowledge.
+Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 6
+Id: 3
+Timestamp: 1688686438006
+Magic number: -4728623444714550039
+Hash of the previous block:
+05a2ce61900d39299d758959bffb18a295bae6913a6056209dcdcf41d0ca1bdb
+Hash of the block:
+009189a0bba670f6017d7f063ed4d86b001060c033bb583291a23a12c3e1c506
+Block data:
+Adam: Today I went for a 10k run!
+Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by miner # 7
+Id: 4
+Timestamp: 1688686438678
+Magic number: -2456184320980434291
+Hash of the previous block:
+009189a0bba670f6017d7f063ed4d86b001060c033bb583291a23a12c3e1c506
+Hash of the block:
+0000a3bce0fdfc1c94aee75bc07a4dc0633f11333cf51c803881bc53952e1649
+Block data:
+John: This sentence is false!
+Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by miner # 1
+Id: 5
+Timestamp: 1688686441226
+Magic number: 2074798210754396964
+Hash of the previous block:
+0000a3bce0fdfc1c94aee75bc07a4dc0633f11333cf51c803881bc53952e1649
+Hash of the block:
+00005b9eafc18ddf2e509ed37e4114b843f4843457d30a2ae4ec90b28bc25d08
+Block data:
+Lena: Where are you?
+Block was generating for 2 seconds
+N was increased to 5
+
+Block:
+Created by miner # 9
+Id: 6
+Timestamp: 1688686458700
+Magic number: 8988020020141731072
+Hash of the previous block:
+00005b9eafc18ddf2e509ed37e4114b843f4843457d30a2ae4ec90b28bc25d08
+Hash of the block:
+00000b5bcd44a12a6683636c76a402477966b01b4ac431cb96e125a29544fae5
+Block data:
+Diana: We are all born ignorant, but one must work hard to remain stupid.
+Adam: Your time is limited, so don’t waste it.
+John: It is important to listen to others. But it is even more important not to do all the stupid things people tell you to do.
+Block was generating for 17 seconds
+N stays the same
+
+Block:
+Created by miner # 6
+Id: 7
+Timestamp: 1688687523687
+Magic number: -3341322033094826395
+Hash of the previous block:
+00000b5bcd44a12a6683636c76a402477966b01b4ac431cb96e125a29544fae5
+Hash of the block:
+00000b2509b917fb1d1372f1f6ea0bb7b5a6b0e08ec6cc9596257ba9eb03fa33
+Block data:
+Sean: Who are you?
+Steve: The world is beautiful if we just let it.
+Adam: We are all born ignorant, but one must work hard to remain stupid.
+Billy: It is important to listen to others. But it is even more important not to do all the stupid things people tell you to do.
+Adam: There are 10 kinds of people in the world: Those who understand binary, and those who don't.
+Billy: We are going hiking tomorrow. Does anyone want to join?
+Betty: Hello!
+Diana: We have been given a paradise where we can all live in safety and peace, with everything in abundance - if we want to.
+John: Opinion is the medium between knowledge and ignorance.
+Lena: I was done in 30 min.
+Princess: Who are you?
+Boris: What a beautiful day we have here today!
+Diana: It is important to listen to others. But it is even more important not to do all the stupid things people tell you to do.
+Adam: We are all born ignorant, but one must work hard to remain stupid.
+Billy: Opinion is the medium between knowledge and ignorance.
+John: This sentence is false!
+Adam: There is a big difference between those who find reasons to help others and those who search for reasons not to.
+Sean: Where are you?
+Steve: It is important to listen to others. But it is even more important not to do all the stupid things people tell you to do.
+Princess: What a beautiful day we have here today!
+John: I am 6 years old and my preschool math teacher told us solve this before tomorrow: 
+There is a circular area of grass for a goat to eat. The goat is tied with a rope from the edge of the circle. However, the goat is only allowed to eat half of the grass. How long should the rope be?
+Can someone help me?
+Lena: Your time is limited, so don’t waste it.
+Lena: We believe that when men reach beyond this planet, they should leave their national differences behind them.
+Steve: We believe that when men reach beyond this planet, they should leave their national differences behind them.
+Diana: It is important to listen to others. But it is even more important not to do all the stupid things people tell you to do.
+Betty: I was done in 30 min.
+Billy: We believe that when men reach beyond this planet, they should leave their national differences behind them.
+Adam: There is much pleasure to be gained from useless knowledge.
+Steve: We believe that when men reach beyond this planet, they should leave their national differences behind them.
+Boris: We believe that when men reach beyond this planet, they should leave their national differences behind them.
+Princess: We do not realize what we have on Earth until we leave it.
+Sean: To acquire knowledge, one must study. But to acquire wisdom, one must observe.
+Adam: That's one small step for a man, one giant leap for mankind.
+Block was generating for 1064 seconds
+N was decreased by 1
+
+
+Process finished with exit code 0
